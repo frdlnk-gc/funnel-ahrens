@@ -1,0 +1,68 @@
+{
+  "firma": "Ahrens Garten- und Landschaftsbau",
+  "stelle": "Facharbeiter (m/w/d)",
+  "ort": "Münster",
+  "farbe_primary": "#0DA3D5",
+  "farbe_secondary": "#326636",
+  "region_badge": "Münster · Dülmen · Coesfeld · Greven & Umgebung",
+  "stelle_sub": "Hochwertige Außenanlagen bauen – privat, gewerblich & öffentlich",
+  "benefit_top": "Weihnachtsgeld & keine Montageeinsätze mit Übernachtung",
+  "benefits": [
+    "Weihnachtsgeld & vermögenswirksame Leistungen",
+    "Keine Montageeinsätze mit Übernachtung",
+    "Anhängerführerschein & Zertifizierungen – Kosten übernimmt der Betrieb",
+    "Jobrad-Leasing & Fitnessstudio-Mitgliedschaft",
+    "Unbefristeter Arbeitsvertrag & flexible Arbeitszeiten",
+    "Interne Karrierechancen & flache Hierarchien"
+  ],
+  "aufgaben": [
+    "Du baust und gestaltest hochwertige Außenanlagen im privaten, gewerblichen und öffentlichen Bereich",
+    "Pflaster-, Naturstein- und Erdarbeiten sowie Pflanz- und Begrünungsarbeiten",
+    "Du bedienst moderne Maschinen und Geräte und setzt Baustellenaufgaben eigenverantwortlich im Team um"
+  ],
+  "anforderung": "Abgeschlossene Ausbildung im Garten- und Landschaftsbau – oder Quereinsteiger mit Erfahrung. Wichtig sind eine selbstständige, zuverlässige Arbeitsweise und Freude an der Arbeit im Team.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {"label": "Garten- & Landschaftsbau", "icon": "🌿", "qualifikationen": [
+      {"label": "Ausgebildeter Landschaftsgärtner", "icon": "🎓"},
+      {"label": "Meister / Techniker", "icon": "🏅"},
+      {"label": "Erfahren ohne Ausbildung", "icon": "💪"},
+      {"label": "Quereinsteiger", "icon": "🔄"}
+    ]},
+    {"label": "Pflaster- / Straßen- / Tiefbau", "icon": "🧱", "qualifikationen": [
+      {"label": "Ausbildung im Straßen-/Tiefbau", "icon": "🎓"},
+      {"label": "Meister / Techniker", "icon": "🏅"},
+      {"label": "Erfahren ohne Ausbildung", "icon": "💪"},
+      {"label": "Quereinsteiger", "icon": "🔄"}
+    ]},
+    {"label": "Anderer Bereich", "icon": "🛠️", "qualifikationen": [
+      {"label": "Ausbildung in anderem Gewerk", "icon": "🎓"},
+      {"label": "Meister / Techniker", "icon": "🏅"},
+      {"label": "Erfahren ohne Ausbildung", "icon": "💪"},
+      {"label": "Quereinsteiger", "icon": "🔄"}
+    ]}
+  ],
+  "ueber": {
+    "fakten": [
+      {"zahl": "55", "label": "Mitarbeiter"},
+      {"zahl": "1955", "label": "gegründet"},
+      {"zahl": "3.", "label": "Generation"}
+    ],
+    "text": "Die Ahrens Garten- und Landschaftsbau GmbH & Co. KG ist ein familiengeführtes Unternehmen aus Münster-Roxel – seit 1955 und heute in dritter Generation. Das Team gestaltet private Gärten, öffentliche Grünanlagen und anspruchsvolle Außenanlagen im gesamten Münsterland und steht mit über 50 Mitarbeitenden für Qualität, Verlässlichkeit und einen sicheren Arbeitsplatz in einem modernen Familienunternehmen."
+  },
+  "kunde_tab": "03 Ahrens Garten- und Landschaftsbau",
+  "quelle": "https://ahrens.green-careers.de",
+  "logo": "logo.jpg",
+  "karte": {"bild": "img/karte.jpg", "label": "Münster"},
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/f1.jpg",
+    "img/f2.jpg",
+    "img/f3.jpg",
+    "img/f4.jpg",
+    "img/f5.jpg",
+    "img/f6.jpg",
+    "img/f7.jpg",
+    "img/f8.jpg"
+  ]
+}
