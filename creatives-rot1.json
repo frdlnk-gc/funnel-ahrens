@@ -1,0 +1,37 @@
+[
+ {
+  "name": "creative-5-weihnachtsgeld-keine-montage",
+  "logo": "logo.jpg",
+  "foto": "img/f1.jpg",
+  "primary": "#0DA3D5",
+  "kicker": "AHRENS GARTEN- UND LANDSCHAFTSBAU",
+  "headline": [
+   "Weihnachtsgeld.",
+   "Keine Montage."
+  ],
+  "subline": "Facharbeiter (m/w/d) · Münster · Telgte · Greven & Umgebung",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.42
+  ],
+  "kicker_ink": "#FFFFFF"
+ },
+ {
+  "name": "creative-6-anhaengerschein",
+  "logo": "logo.jpg",
+  "foto": "img/f3.jpg",
+  "primary": "#0DA3D5",
+  "kicker": "FACHARBEITER (M/W/D) IN MÜNSTER",
+  "headline": [
+   "Anhängerschein?",
+   "Zahlt der Betrieb."
+  ],
+  "subline": "Zertifizierungen inklusive · Münster & Umgebung",
+  "cta": "Jetzt Job-Angebot sichern",
+  "fokus": [
+   0.5,
+   0.5
+  ]
+ }
+]
